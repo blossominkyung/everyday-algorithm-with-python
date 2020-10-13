@@ -1,12 +1,11 @@
 ## Algorithm study with Python
 
-Here I will upload my solution way of several algorithm problems. This is my personal study. 
-
-However if you have better solution, then please let me know it.
+Here I will upload my solution way of several algorithm problems. So It is not the best way, however, if I find a better solution ,though I solved already, then I will add better solution also. Not just to solve But to know the optimal logic.
 
 > Personal Goal
 * Pass the online programming test from companies
 * Study several important algorithms with code
+* Learn a train of optimal and better logical thoguht
 * Solve One problem per two days
 
 > This .md file will be updated after getting below goals!
