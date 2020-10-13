@@ -1,5 +1,7 @@
 ## Algorithm study with Python
 
+Here I will upload my solution way of several algorithm problems. This is my personal study. However if you have better solution ways, then please let me know it.
+
 > Personal Goal
 * Pass the online programming test from companies
 * Study several important algorithms with code
