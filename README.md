@@ -12,8 +12,11 @@ Here I will upload my solution way of several algorithm problems. So It is not t
 
 ### Platform site
 
-**Baekjoon Online Judge**
-* First target is to solve whole problems in [the KOI Session](https://www.acmicpc.net/category/55)
-
 **LeetCode**
-* First target is to solve Easy-Medium problems in [the ProblemSet](https://leetcode.com/problemset/all/)
+* To solve Easy-Medium problems in [the ProblemSet](https://leetcode.com/problemset/all/)
+
+**HackerRank**
+* To solve following steps:
+  * [Python](https://www.hackerrank.com/domains/python)
+  * [Algorithms](https://www.hackerrank.com/domains/algorithms)
+* To get [Skills Certification Test](https://www.hackerrank.com/skills-verification/problem_solving_basic)
